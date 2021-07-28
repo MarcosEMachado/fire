@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.container button{
+    margin-top: 20px;
+}
+
+.container label{
+    margin-top: 10px;
+}
+
+.container textarea{
+    margin-top: 15px;
+}
+
+.container input{
+    margin-top: 10px;
+}
+
+.div-lista li{
+    cursor: pointer;
+}
